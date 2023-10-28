@@ -4,3 +4,5 @@ stest
 stest.o
 util.o
 dmenu.o
+*.orig
+*.rej
